@@ -9,7 +9,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # ----------------------------
-# Email credentials (hardcoded)
+# Hardcoded credentials (SECURITY WARNING: Not recommended for production)
 # ----------------------------
 EMAIL_USER = "sarthakmohite094@gmail.com"
 EMAIL_PASS = "ntfv uywk mxef brum"
